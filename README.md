@@ -1,4 +1,5 @@
-##PLPBasicGITassignment
+## PLPBasicGITassignment
+### FRANCIS NGURE KAMAU
 
 cd "C:\Users\FRANKIE NGURE\OneDrive\Desktop\PLPBasicGitAssignment"
 git init
